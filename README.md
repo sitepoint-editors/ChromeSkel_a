@@ -1,7 +1,7 @@
 ##Skeleton Chrome Extension w/ fancy-settings
 
 ###What is this?
-This Chrome extension is an extension bootstrap, a template so to speak. All you need to do is edit some values in the manifest.json file, modify which options you want your extension to have through fancy-settings/source/manifest.js and add your extension code.
+This Chrome extension is an extension bootstrap, a template so to speak. All you need to do is edit some values in the manifest.json file, modify which options you want your extension to have through fancy-settings/source/manifest.js and add your extension code. There a blog post focusing on this [here](http://www.bitfalls.com/2012/11/chromeskel-chrome-extension.html).
 
 The skeleton extension is usable as is (albeit utterly useless) and can be installed and tried out even in this very basic form. Just download the latest version of Chrome or Chromium and set it to developer mode under Settings, then Load Unpacked Extension and select the folder that contains this file.
 
