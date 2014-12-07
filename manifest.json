@@ -18,7 +18,7 @@
 	"content_scripts": [
 	{
 		"matches": ["http://*/*"],
-		"js": ["lib/jquery-1.8.3.min.js","scripts/main.js"],
+		"js": ["lib/jquery-2.1.1.min.js","scripts/main.js"],
 		"run_at": "document_idle"
 	}
 	],
