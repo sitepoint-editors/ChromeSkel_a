@@ -5,7 +5,7 @@ This Chrome extension is an extension bootstrap, a template so to speak. All you
 
 The skeleton extension is usable as is (albeit utterly useless) and can be installed and tried out even in this very basic form. Just download the latest version of Chrome or Chromium and set it to developer mode under Settings, then Load Unpacked Extension and select the folder that contains this file.
 
-This skeleton extension will be updated regularly to the newest manifest version and rules published by Google.
+~~This skeleton extension will be updated regularly to the newest manifest version and rules published by Google.~~ This was a lie. I have abandoned this shortly after Google's quality went down the drain and I stopped using their services. Anyone feeling like taking over, let me know.
 
 ###What does this package contain?
 
